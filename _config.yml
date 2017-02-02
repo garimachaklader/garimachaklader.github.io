@@ -8,7 +8,7 @@ description: A blog about thoughts that occupy my neurons
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/pic3.jpg
+picture: assets/images/pic.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
